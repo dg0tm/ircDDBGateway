@@ -1,7 +1,0 @@
-/var/log/opendv/timercontrold.log {
-	rotate 14
-	daily
-	compress
-	missingok
-	copytruncate
-}

@@ -1,7 +1,0 @@
-/var/log/opendv/starnetserverd.log {
-	rotate 14
-	daily
-	compress
-	missingok
-	copytruncate
-}
